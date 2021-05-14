@@ -1,3 +1,3 @@
 # Super-Buddies-data-files
-This is a fun game mede in python.
-In order to run this, put the assets and sounds folder in the same directory as main.exc file
+Supper Buddies is a fun game made with python.
+In order to run the application these are the data files required, put the assets folder and sounds folder in the same directory as main.exc file
